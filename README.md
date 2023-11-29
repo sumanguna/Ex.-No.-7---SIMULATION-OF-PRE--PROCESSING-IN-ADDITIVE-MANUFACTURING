@@ -44,8 +44,8 @@
 ![Screenshot 2023-11-29 091044](https://github.com/23013753/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145634121/64ca6a80-54c8-4636-bdec-c8434266ff8c)
 ## Output:
 
-### Name:vishal.s
-### Register Number:23013753
+### Name:SUMAN.G
+### Register Number:23014256
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
