@@ -39,9 +39,11 @@
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
 ## OUTPUT:
+
 ![Alt text](<Screenshot 2023-11-29 090632-1.png>)
 ![Alt text](<Screenshot 2023-11-29 090645.png>)
 ![Alt text](<Screenshot 2023-11-29 091044.png>)
+
 ## Output:
 
 ### Name:vishal.s
