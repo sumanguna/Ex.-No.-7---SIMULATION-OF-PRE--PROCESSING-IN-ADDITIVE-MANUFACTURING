@@ -39,11 +39,9 @@
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
 ## OUTPUT:
-
-![Alt text](<Screenshot 2023-11-29 090632-1.png>)
-![Alt text](<Screenshot 2023-11-29 090645.png>)
-![Alt text](<Screenshot 2023-11-29 091044.png>)
-
+![Screenshot 2023-11-29 090632](https://github.com/23013753/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145634121/95e7efce-7351-44a3-a541-c8f143b76171)
+![Screenshot 2023-11-29 090645](https://github.com/23013753/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145634121/08ee4f74-238b-4689-86cc-470f35548beb)
+![Screenshot 2023-11-29 091044](https://github.com/23013753/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145634121/64ca6a80-54c8-4636-bdec-c8434266ff8c)
 ## Output:
 
 ### Name:vishal.s
